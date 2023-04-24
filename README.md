@@ -2,7 +2,7 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Unity%20Bootcamp&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Unity%20Bootcamp&fontSize=90)
 
 2023 Haedal KNU Unity Advanced Bootcamp
 
