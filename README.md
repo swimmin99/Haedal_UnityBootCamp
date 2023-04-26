@@ -1,9 +1,7 @@
 # Haedal_UnityBootCamp
 <div align="center">
 
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Unity%20Bootcamp&fontSize=90)
-
+<img width="1695" alt="스크린샷 2023-04-26 오전 1 10 52" src="https://user-images.githubusercontent.com/109887066/234460630-f2d739fd-f8d1-4e0e-8a07-96cdf804e4d9.png">
 2023 Haedal KNU Unity Advanced Bootcamp
 
 비대면 회차 녹화 파일 : [플레이리스트 링크](https://www.youtube.com/playlist?list=PLKmvogVcavQVawNhN8YcazQIXk4Fp0PmY)
