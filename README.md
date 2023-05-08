@@ -22,6 +22,7 @@
 |2023-05-08|2D Top Down RPG 튜토리얼 - 전투 시스템의 기본|3-2회차|형상관리시스템 사용해보기|[프로젝트 파일 링크](https://github.com/swimmin99/Haedal_UnityBootCamp/tree/main/Class4)|O||
 |2023-05-08|2D Top Down RPG 튜토리얼 - 몬스터 패트롤링과 랜덤 함수|3-2회차|빌드 해보기||O||
 
+<div align="left">
 
 .gitignore 사용법
 [파일링크](https://github.com/swimmin99/Haedal_UnityBootCamp/blob/main/.gitignore)의 raw파일을 저장하여 이름을 .gitignore로 바꾼 후
