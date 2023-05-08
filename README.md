@@ -19,7 +19,7 @@
 |2023-04-25|2D Top Down RPG 튜토리얼 - 타일맵 팔레트 사용법 추가|3-3|레이어 정렬해보기||X|[영상링크](https://www.youtube.com/watch?v=hs82JOE_LN0&list=PLKmvogVcavQVawNhN8YcazQIXk4Fp0PmY&index=3&t=3s&pp=gAQBiAQB)||
 |2023-05-01|2D Top Down RPG 튜토리얼 - 애니메이션, 애니메이터|4-1|복습해오기||O||
 |2023-05-01|2D Top Down RPG 튜토리얼 - 타일맵 콜리전과 레이어|4-2|복습해오기||O||
-|2023-05-08|2D Top Down RPG 튜토리얼 - 전투 시스템의 기본|5-1|형상관리시스템 사용해보기|[파일 링크](https://github.com/swimmin99/Haedal_UnityBootCamp/tree/main/Class4)|O||
+|2023-05-08|2D Top Down RPG 튜토리얼 - 전투 시스템의 기본|5-1|깃헙 사용해보기|[파일 링크](https://github.com/swimmin99/Haedal_UnityBootCamp/tree/main/Class4)|O||
 |2023-05-08|2D Top Down RPG 튜토리얼 - 몬스터 패트롤링과 랜덤 함수|5-2|빌드 해보기||O||
 |2023-05-15|UI의 기초|6-1|||O||
 |2023-05-15|UI의 응용|6-2|||O||
