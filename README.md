@@ -35,7 +35,7 @@
 6. 확인
 
 
-설명
+부트캠프 설명
 ___
 👾유니티 게임 제작 부트캠프를 소개합니다👾
 
@@ -57,7 +57,7 @@ https://youtu.be/k6G9bb-Rol8
 
 
 
-일정
+부트캠프 세부 일정
 ___
 ![KakaoTalk_Photo_2023-05-08-22-41-04](https://user-images.githubusercontent.com/109887066/236839683-016b6425-9864-4e2c-aa14-1e0c49bcb028.jpeg)
 ![KakaoTalk_Photo_2023-05-08-22-41-11](https://user-images.githubusercontent.com/109887066/236839673-8134e7d2-b5b7-49a0-bd5d-4278d08cf6c6.jpeg)
