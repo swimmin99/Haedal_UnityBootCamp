@@ -22,6 +22,7 @@
 |2023-05-08|2D Top Down RPG 튜토리얼 - 전투 시스템의 기본|3-2회차|형상관리시스템 사용해보기|[프로젝트 파일 링크](https://github.com/swimmin99/Haedal_UnityBootCamp/tree/main/Class4)|O||
 |2023-05-08|2D Top Down RPG 튜토리얼 - 몬스터 패트롤링과 랜덤 함수|3-2회차|빌드 해보기||O||
 
+
 설명
 ___
 👾유니티 게임 제작 부트캠프를 소개합니다👾
@@ -41,6 +42,7 @@ ___
 아래는 유니티 엔진을 사용하여 만든 프로그램 쇼케이스 영상입니다.
 
 https://youtu.be/k6G9bb-Rol8
+
 
 
 일정
