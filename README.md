@@ -5,7 +5,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=2023%20Haedal%20KNU%20Unity%20Advanced%20Bootcamp&fontSize=20&fontAlign=50&textBg=true)
 
-
+[프로그램 소개 페이지](https://www.instagram.com/p/CpR9BdTPVpX/)
 비대면 회차 녹화 파일 : [플레이리스트 링크](https://www.youtube.com/playlist?list=PLKmvogVcavQVawNhN8YcazQIXk4Fp0PmY)
 
 |날짜|학습목표|회차|과제|프로젝트파일|대면|비대면링크|
