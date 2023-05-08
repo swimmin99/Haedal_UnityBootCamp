@@ -22,6 +22,14 @@
 |2023-05-08|2D Top Down RPG 튜토리얼 - 전투 시스템의 기본|3-2회차|형상관리시스템 사용해보기|[프로젝트 파일 링크](https://github.com/swimmin99/Haedal_UnityBootCamp/tree/main/Class4)|O||
 |2023-05-08|2D Top Down RPG 튜토리얼 - 몬스터 패트롤링과 랜덤 함수|3-2회차|빌드 해보기||O||
 
+일정
+___
+![KakaoTalk_Photo_2023-05-08-22-41-04](https://user-images.githubusercontent.com/109887066/236839683-016b6425-9864-4e2c-aa14-1e0c49bcb028.jpeg)
+![KakaoTalk_Photo_2023-05-08-22-41-11](https://user-images.githubusercontent.com/109887066/236839673-8134e7d2-b5b7-49a0-bd5d-4278d08cf6c6.jpeg)
+
+
+
+
 <div align="left">
 
 .gitignore 사용법
