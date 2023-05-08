@@ -22,6 +22,18 @@
 |2023-05-08|2D Top Down RPG 튜토리얼 - 전투 시스템의 기본|3-2회차|형상관리시스템 사용해보기|[프로젝트 파일 링크](https://github.com/swimmin99/Haedal_UnityBootCamp/tree/main/Class4)|O||
 |2023-05-08|2D Top Down RPG 튜토리얼 - 몬스터 패트롤링과 랜덤 함수|3-2회차|빌드 해보기||O||
 
+<div align="left">
+
+공지! .gitignore 사용법
+---
+[파일링크](https://github.com/swimmin99/Haedal_UnityBootCamp/blob/main/.gitignore)의 raw파일을 저장하여 이름을 .gitignore로 바꾼 후
+1. gitDesktop에 리포지토리 생성하기
+2. 리포지토리 최상위 디렉토리에 .gitignore파일을 배치하기
+3. Fetch -> commit to main -> push 하기
+4. 자신이 넣고자 하는 프로젝트 파일을 리포지토 디렉토리 붙여넣기
+5. Fetch -> commit to main -> push 하기
+6. 확인
+
 
 설명
 ___
@@ -49,18 +61,3 @@ https://youtu.be/k6G9bb-Rol8
 ___
 ![KakaoTalk_Photo_2023-05-08-22-41-04](https://user-images.githubusercontent.com/109887066/236839683-016b6425-9864-4e2c-aa14-1e0c49bcb028.jpeg)
 ![KakaoTalk_Photo_2023-05-08-22-41-11](https://user-images.githubusercontent.com/109887066/236839673-8134e7d2-b5b7-49a0-bd5d-4278d08cf6c6.jpeg)
-
-
-
-
-<div align="left">
-
-.gitignore 사용법
----
-[파일링크](https://github.com/swimmin99/Haedal_UnityBootCamp/blob/main/.gitignore)의 raw파일을 저장하여 이름을 .gitignore로 바꾼 후
-1. gitDesktop에 리포지토리 생성하기
-2. 리포지토리 최상위 디렉토리에 .gitignore파일을 배치하기
-3. Fetch -> commit to main -> push 하기
-4. 자신이 넣고자 하는 프로젝트 파일을 리포지토 디렉토리 붙여넣기
-5. Fetch -> commit to main -> push 하기
-6. 확인
