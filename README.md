@@ -23,3 +23,11 @@
 |2023-05-08|2D Top Down RPG 튜토리얼 - 몬스터 패트롤링과 랜덤 함수|3-2회차|빌드 해보기||O||
 
 
+.gitignore 사용법
+[파일링크](https://github.com/swimmin99/Haedal_UnityBootCamp/blob/main/.gitignore)의 raw파일을 저장하여 이름을 .gitignore로 바꾼 후
+1. gitDesktop에 리포지토리 생성하기
+2. 리포지토리 최상위 디렉토리에 .gitignore파일을 배치하기
+3. Fetch -> commit to main -> push 하기
+4. 자신이 넣고자 하는 프로젝트 파일을 리포지토 디렉토리 붙여넣기
+5. Fetch -> commit to main -> push 하기
+6. 확인
