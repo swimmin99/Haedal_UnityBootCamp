@@ -25,6 +25,7 @@
 <div align="left">
 
 .gitignore 사용법
+---
 [파일링크](https://github.com/swimmin99/Haedal_UnityBootCamp/blob/main/.gitignore)의 raw파일을 저장하여 이름을 .gitignore로 바꾼 후
 1. gitDesktop에 리포지토리 생성하기
 2. 리포지토리 최상위 디렉토리에 .gitignore파일을 배치하기
