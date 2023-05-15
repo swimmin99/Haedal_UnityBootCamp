@@ -69,7 +69,11 @@ https://youtu.be/k6G9bb-Rol8
   
   
   
-  
+  본인들 githun에 올린 프로젝트파일 1개씩만 링크 남겨주세요!
+  ex) ID : url
+  -
+  -
+  -
   
   
   
