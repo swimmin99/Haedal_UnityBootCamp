@@ -61,11 +61,6 @@
 https://youtu.be/k6G9bb-Rol8
 
 
-  Q&A
-  
-  //여기에 질문을 기입하시면 됩니다.
-  
-  
   
   
   
