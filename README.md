@@ -13,7 +13,7 @@
 |날짜|학습목표|회차|과제|프로젝트파일|대면|비대면링크|
 |------|---|----|---|---|---|----|
 |2023-03-27|유니티 설치 및 프로젝트 생성, 템플릿의 이해|1-1|없음||O||
-|2023-03-27|오브젝트 생성 및 플레이 컨트롤러 C# 작성, 템플릿의 이해|1-2|없음||O||
+|2023-03-27|오브젝트 생성 및 플레이 컨트롤러 C# 작성, 템플릿의 이해|1-2|없음|[파일 링크](https://github.com/swimmin99/Haedal_UnityBootCamp/tree/main/Class1)|O||
 |2023-04-03|3D 활공 튜토리얼 - Rigidbody의 사용과 Terrain의 사용|2-1|없음|[파일 링크](https://github.com/swimmin99/Haedal_UnityBootCamp/tree/main/Class2)|O||
 |2023-04-03|UGUI와 Toggle Group의 이해|2-2|맵 디자인 해보기||O||
 |2023-04-24|2D Top Down RPG 튜토리얼 - 캐릭터 컨트롤러|3-1|깃헙 데스크톱 사용||X|[영상링크](https://www.youtube.com/watch?v=AqyAtY31otI&list=PLKmvogVcavQVawNhN8YcazQIXk4Fp0PmY&index=1&t=9s&pp=gAQBiAQB)||
