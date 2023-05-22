@@ -67,7 +67,7 @@ https://youtu.be/k6G9bb-Rol8
   본인들 githun에 올린 프로젝트파일 1개씩만 링크 남겨주세요!
   ex) ID : url
   - JMespoir : https://github.com/JMespoir/2023_Haedal_Unity
-  -
+  - snailkim0124 : https://github.com/snailkim0124/2Dplatformer
   -
   
   
