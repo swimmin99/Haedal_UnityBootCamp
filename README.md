@@ -64,10 +64,10 @@ https://youtu.be/k6G9bb-Rol8
   
   
   
-  (참고) 수강 프로젝트 링크
+  (참고) 수강생 프로젝트 링크
   - JMespoir : https://github.com/JMespoir/2023_Haedal_Unity
   - snailkim0124 : https://github.com/snailkim0124/2Dplatformer
-  -
+  
   
   
   
